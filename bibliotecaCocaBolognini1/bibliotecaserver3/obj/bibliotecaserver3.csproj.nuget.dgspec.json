@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bolognini.22037\\Desktop\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj": {}
+    "C:\\Users\\cocaaltamirano.22042\\Documents\\GitHub\\bibliotecamulticlientCocaBo#bibliotecamulticlientcocabo\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bolognini.22037\\Desktop\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj": {
+    "C:\\Users\\cocaaltamirano.22042\\Documents\\GitHub\\bibliotecamulticlientCocaBo#bibliotecamulticlientcocabo\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bolognini.22037\\Desktop\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj",
+        "projectUniqueName": "C:\\Users\\cocaaltamirano.22042\\Documents\\GitHub\\bibliotecamulticlientCocaBo#bibliotecamulticlientcocabo\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj",
         "projectName": "bibliotecaserver3",
-        "projectPath": "C:\\Users\\bolognini.22037\\Desktop\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj",
-        "packagesPath": "C:\\Users\\bolognini.22037\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bolognini.22037\\Desktop\\bibliotecaCocaBolognini1\\bibliotecaserver3\\obj\\",
+        "projectPath": "C:\\Users\\cocaaltamirano.22042\\Documents\\GitHub\\bibliotecamulticlientCocaBo#bibliotecamulticlientcocabo\\bibliotecaCocaBolognini1\\bibliotecaserver3\\bibliotecaserver3.csproj",
+        "packagesPath": "C:\\Users\\cocaaltamirano.22042\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cocaaltamirano.22042\\Documents\\GitHub\\bibliotecamulticlientCocaBo#bibliotecamulticlientcocabo\\bibliotecaCocaBolognini1\\bibliotecaserver3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\bolognini.22037\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cocaaltamirano.22042\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
